@@ -1,5 +1,5 @@
 import java.util.*;
-public class Holmes{
+public class Holmes
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter incomplete with underscore");
